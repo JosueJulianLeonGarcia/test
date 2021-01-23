@@ -11,15 +11,8 @@ package test;
  */
 public class HelloWord {
     public static void main(String[] args) {
-        System.out.println("buenos dias mundo");
-        //metacomandos
-        //sout
-        //psvm
-        
-        
-        
+        System.out.println("helloooo");
     }
-   
-            
-    
 }
+
+   
